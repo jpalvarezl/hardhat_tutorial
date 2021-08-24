@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/jpalvarezl/Code/solidity/hardhat-tutorial/contracts/Token.sol": {
-      "lastModificationDate": 1628689884116,
+      "lastModificationDate": 1629803653874,
       "contentHash": "68a6aa0320a6af81d50d5a947b23b581",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
